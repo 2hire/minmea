@@ -4,7 +4,7 @@ project(minmea VERSION 0.3.1 LANGUAGES CXX)
 
 
 add_library(minmea STATIC
-    ${CMAKE_CURRENT_LIST_DIR}/minmea.cpp
+    ${CMAKE_CURRENT_LIST_DIR}/minmea.c
     ${CMAKE_CURRENT_LIST_DIR}/minmea.h
 )
 
