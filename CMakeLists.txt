@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(minmea VERSION 0.3.1 LANGUAGES CXX)
+project(minmea VERSION 0.3.3 LANGUAGES CXX)
 
 
 add_library(minmea STATIC
